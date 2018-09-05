@@ -1,0 +1,11 @@
+#/bin/bash
+
+echo "prueba de bash2"
+
+echo “Ingresá tu nombre y presioná ENTER”
+
+#Leemos la variable nombre
+
+read nombre
+
+echo “Tu nombre es $nombre”
